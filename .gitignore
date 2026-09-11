@@ -1,0 +1,7 @@
+data/*.csv
+data/*.pkl
+outputs/pred_*.pkl
+outputs/p2_pred_*.pkl
+outputs/predictions.pkl
+outputs/run.log
+__pycache__/
